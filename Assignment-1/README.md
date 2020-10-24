@@ -1,6 +1,6 @@
 # CMPE 283: Virtualization Technologies
 ## Assignment 1: Discovering VMX Features 
-###### Bhavya Tetali (014535144),  Supriya Meduri (015262767)
+###### Bhavya Lalithya Tetali (014535144),  Supriya Meduri (015262767)
 
 ## Contribution of Team Members:
 Supriya Meduri - Created the environment using VMware Fusion Pro and built kernel code for IA32_VMX_PROCBASED_CTLS  and IA32_VMX_PROCBASED_CTLS processor-based controls.
